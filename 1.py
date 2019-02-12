@@ -13,8 +13,6 @@ from sklearn.linear_model import LogisticRegression, LogisticRegressionCV
 from sklearn.model_selection import GridSearchCV, StratifiedKFold
 
 
-import numpy as np
-from matplotlib import pyplot as plt
 
 
 
